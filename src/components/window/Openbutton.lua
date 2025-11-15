@@ -22,7 +22,7 @@ function OpenButton.New(Window)
     
      Icon = New("ImageLabel", {
          Image = "",
-         Size = UDim2.new(0,22,0,22),
+         Size = UDim2.new(0,26,0,26),
          Position = UDim2.new(0.5,0,0.5,0),
          LayoutOrder = -1,
          AnchorPoint = Vector2.new(0.5,0.5),
