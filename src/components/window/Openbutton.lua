@@ -20,15 +20,15 @@ function OpenButton.New(Window)
     
     
     
-    -- Icon = New("ImageLabel", {
-    --     Image = "",
-    --     Size = UDim2.new(0,22,0,22),
-    --     Position = UDim2.new(0.5,0,0.5,0),
-    --     LayoutOrder = -1,
-    --     AnchorPoint = Vector2.new(0.5,0.5),
-    --     BackgroundTransparency = 1,
-    --     Name = "Icon"
-    -- })
+     Icon = New("ImageLabel", {
+         Image = "rbxassetid://134656917989517",
+         Size = UDim2.new(0,22,0,22),
+         Position = UDim2.new(0.5,0,0.5,0),
+         LayoutOrder = -1,
+         AnchorPoint = Vector2.new(0.5,0.5),
+         BackgroundTransparency = 1,
+         Name = "Icon"
+     })
 
     local Title = New("TextLabel", {
         Text = Window.Title,
