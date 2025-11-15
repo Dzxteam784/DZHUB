@@ -1,4 +1,4 @@
-name: Build WindUI
+name: Build DZHUB
 
 on:
   push:
