@@ -155,7 +155,7 @@ function OpenButton.New(Window)
                 true,
                 Window.IconThemed
             )
-            Icon.Size = UDim2.new(0,22,0,22)
+            Icon.Size = UDim2.new(0,30,0,30)
             Icon.LayoutOrder = -1
             Icon.Parent = OpenButtonMain.Button.TextButton
         end
